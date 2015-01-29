@@ -1,9 +1,9 @@
 # cctests
-Lua programs for ComputerCraft
+Lua programs for [ComputerCraft](http://computercraft.info)
 
 to install programs with OpenPeripherals's ```github``` command:
 
-1. download a program: ```github get /lasercar/cctests/master/hello.lua hello```
+1. download a program: ```github get lasercar/cctests/master/hello.lua hello```
 2. run the program: ```hello```
 
 to install the ```github``` command:
