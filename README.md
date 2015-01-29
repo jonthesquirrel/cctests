@@ -8,5 +8,5 @@ to install programs with OpenPeripherals's ```github``` command:
 
 to install the ```github``` command:
 
-1. install the OpenPeripherals mod
+1. install the [OpenPeripherals](http://openmods.info) mod:
 2. copy the ```github``` command to the working directory: ```cp /openp/github github```
