@@ -9,4 +9,4 @@ to install programs with OpenPeripherals's ```github``` command:
 to install the ```github``` command:
 
 1. install the OpenPeripherals mod
-2. copy the ```github``` command to the working directory: ```cp openp/github github```
+2. copy the ```github``` command to the working directory: ```cp /openp/github github```
